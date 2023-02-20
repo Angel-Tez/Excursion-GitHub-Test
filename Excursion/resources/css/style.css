@@ -1,0 +1,43 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.GuideHeader {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.Description {
+  font-size: 21px;
+  color: gray;
+}
+
+.ComingSoon {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.Copyright {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
+
+span {
+  margin: 10px;
+}
